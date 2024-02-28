@@ -1,6 +1,6 @@
 {
-    "name": "nome-do-seu-projeto",
-    "version": "1.0.0",
+    "name": "Suco de uva",
+    "version": "2.0.0",
     "description": "Descrição do seu projeto",
     "main": "index.js",
     "scripts": {
